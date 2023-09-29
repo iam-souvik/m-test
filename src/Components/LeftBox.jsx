@@ -2,6 +2,10 @@ import React from "react";
 
 import style from "../style/leftbox.css"
 const LeftBox = ({ handleTip, handleBill, bill, people, handlePeople }) => {
+
+
+
+  
   return (
     <div style={{ display:"inline",margin:'auto', }}>
       {/* Add input for bill */}
