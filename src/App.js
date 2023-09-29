@@ -8,6 +8,9 @@ const App = () => {
          <h1 style={{textAlign:"center"}}>SPLI TTER</h1>
 
 
+
+
+
       <div>
 
         
