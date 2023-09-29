@@ -9,6 +9,8 @@ const App = () => {
 
 
       <div>
+
+        
         {/* Add BillPage component */}
         <BillPage/>
       </div>
